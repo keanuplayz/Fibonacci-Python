@@ -1,3 +1,8 @@
+# Fibonacci-Python - A project for IT class which displays a specified amount of numbers from the Fibonacci sequence.
+# Started writing in 2020 by Keanu Timmermans
+# To the extent possible under law, the author(s) have dedicated all copyright and related and neighboring rights to this software to the public domain worldwide. This software is distributed without any warranty.
+# You should have received a copy of the Apache License 2.0. If not, see <https://www.apache.org/licenses/LICENSE-2.0>.
+
 InputNumber=int(input("Enter the terms: "))                     # Voer hier het aantal Fibonacci nummers in
                                                                 # Het aantal Fibonacci nummers die worden weergegeven hangen af van de input van InputNumber
 
