@@ -13,3 +13,12 @@ else:                                                           # Anders, start 
         print(next,end=" ")
         FirstElement=SecondElement
         SecondElement=next
+
+
+                                                                # Translation of comments in order of appearance:
+                                                                # Enter the amount of Fibonacci numbers here
+                                                                # The amount of Fibonacci numbers that are displayed depend on the integer entered in InputNumber
+                                                                # Definition for the first element
+                                                                # Definition for the second element
+                                                                # If a number below 0 is entered, print:
+                                                                # Else, start the Fibonacci sequence with the indicated integer from InputNumber
